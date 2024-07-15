@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorCoffeeAPIs", "InteriorCoffeeAPIs\InteriorCoffeeAPIs.csproj", "{56CA4B54-D304-4B06-9A1A-50137B9A1F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48B6B39-D035-45CD-8A76-B26EC6C31DA4}
+	EndGlobalSection
+EndGlobal

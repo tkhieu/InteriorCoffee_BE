@@ -1,0 +1,6 @@
+@InteriorCoffeeAPIs_HostAddress = http://localhost:5214
+
+GET {{InteriorCoffeeAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeuPxhikVZYzzhf6Obq+uOQtRugxFwWWLQUdFdKoK6TVOM4LeBWZF1qTJ0O2S8AmznFuLUqc/TOyW3/DulohNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\KhangThuan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
