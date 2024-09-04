@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj": {}
+    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj": {
+    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj",
-        "projectName": "InteriorCoffeeAPIs",
-        "projectPath": "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj",
-        "packagesPath": "C:\\Users\\KhangThuan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KhangThuan\\Documents\\Capstone_SE_FA24\\Backend\\Interior_Coffee_API\\InteriorCoffeeAPIs\\obj\\",
+        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
+        "projectName": "Interior.Infrastructure",
+        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\KhangThuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,165 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
+                "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\InteriorCoffee.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\InteriorCoffee.Application.csproj",
+        "projectName": "InteriorCoffee.Application",
+        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\InteriorCoffee.Application.csproj",
+        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {
+                "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
+        "projectName": "InteriorCoffee.Domain",
+        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
+        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,9 +208,108 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.28.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj",
+        "projectName": "InteriorCoffeeAPIs",
+        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj",
+        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\InteriorCoffee.Application.csproj": {
+                "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Application\\InteriorCoffee.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.7.3, )"
             }
           },
           "imports": [
@@ -69,7 +331,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorCoffeeAPIs", "InteriorCoffeeAPIs\InteriorCoffeeAPIs.csproj", "{56CA4B54-D304-4B06-9A1A-50137B9A1F49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteriorCoffeeAPIs", "InteriorCoffeeAPIs\InteriorCoffeeAPIs.csproj", "{56CA4B54-D304-4B06-9A1A-50137B9A1F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interior.Infrastructure", "Interior.Infrastructure\Interior.Infrastructure.csproj", "{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorCoffee.Application", "InteriorCoffee.Application\InteriorCoffee.Application.csproj", "{D18086FB-AE07-4007-9335-77B2907E8408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorCoffee.Domain", "InteriorCoffee.Domain\InteriorCoffee.Domain.csproj", "{70215874-796D-4543-9E13-F3635703BC02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56CA4B54-D304-4B06-9A1A-50137B9A1F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18086FB-AE07-4007-9335-77B2907E8408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18086FB-AE07-4007-9335-77B2907E8408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18086FB-AE07-4007-9335-77B2907E8408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18086FB-AE07-4007-9335-77B2907E8408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70215874-796D-4543-9E13-F3635703BC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70215874-796D-4543-9E13-F3635703BC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70215874-796D-4543-9E13-F3635703BC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70215874-796D-4543-9E13-F3635703BC02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

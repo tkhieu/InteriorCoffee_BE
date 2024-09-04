@@ -1,0 +1,16 @@
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.csproj.AssemblyReference.cache
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.AssemblyInfoInputs.cache
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.AssemblyInfo.cs
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.sourcelink.json
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.deps.json
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.dll
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.pdb
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\InteriorCoffee.Domain.dll
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\InteriorCoffee.Domain.pdb
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.92A47F47.Up2Date
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.dll
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\refint\Interior.Infrastructure.dll
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.pdb
+D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\ref\Interior.Infrastructure.dll
