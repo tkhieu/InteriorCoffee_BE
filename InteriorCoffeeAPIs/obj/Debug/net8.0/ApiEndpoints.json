@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "InteriorCoffeeAPIs.Controllers.AuthenticationController",
+    "Method": "MerchantRegister",
+    "RelativePath": "api/v1/auth/merchant/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "merchantRegisteredDTO",
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.MerchantRegisteredDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.AuthenticationResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InteriorCoffeeAPIs.Controllers.AuthenticationController",
+    "Method": "CustomerRegister",
+    "RelativePath": "api/v1/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registeredDTO",
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.RegisteredDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.AuthenticationResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InteriorCoffeeAPIs.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/v1/authlogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InteriorCoffee.Application.DTOs.Authentication.AuthenticationResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

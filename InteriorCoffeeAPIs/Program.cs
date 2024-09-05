@@ -13,7 +13,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddControllers();
-
+builder.Services.AddDatabase(builder.Configuration);
 builder.Services.AddServices(builder.Configuration);
 builder.Services.AddJwtValidation(builder.Configuration);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
