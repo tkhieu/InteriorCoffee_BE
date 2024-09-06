@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InteriorCoffeeAPIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf9d44ae831c5157d2a2a442f2eabb75468ba6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa5c9b77fe92e1243f5f4482691f6f6768dc234")]
 [assembly: System.Reflection.AssemblyProductAttribute("InteriorCoffeeAPIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InteriorCoffeeAPIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
