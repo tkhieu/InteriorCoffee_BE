@@ -1,7 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\implements\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.application\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|solutionrelative:interiorcoffee.application\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\implements\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\implements\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|solutionrelative:interiorcoffee.application\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.application\\services\\implements\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|solutionrelative:interiorcoffee.application\\services\\implements\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\extensions\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\extensions\\dependencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\implements\\campaignproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\implements\\campaignproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\implements\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\implements\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.application\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|solutionrelative:interiorcoffee.application\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18086FB-AE07-4007-9335-77B2907E8408}|InteriorCoffee.Application\\InteriorCoffee.Application.csproj|solutionrelative:interiorcoffee.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\salecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\salecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffee.domain\\models\\campaignproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70215874-796D-4543-9E13-F3635703BC02}|InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj|solutionrelative:interiorcoffee.domain\\models\\campaignproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interior.infrastructure\\repositories\\implements\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B56DF-D2EC-49B5-AAAE-D40F2EE3C63A}|Interior.Infrastructure\\Interior.Infrastructure.csproj|solutionrelative:interior.infrastructure\\repositories\\implements\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,59 +110,328 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T01:57:02.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\appsettings.json",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\appsettings.json",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\appsettings.json",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T14:18:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Program.cs",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Program.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Program.cs",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:07:58.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:56:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
+              "RelativeToolTip": "InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:57:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyServices.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:06:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:59:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:03:54.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:51:36.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:49:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:53:31.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Product.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:55:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:50:20.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:47:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
+              "RelativeToolTip": "InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:48:40.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CampaignProductsRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:48:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:47:59.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Account.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Account.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:46:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:00:01.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAmwFwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:54:22.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CampaignProducts.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:01:37.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Merchant.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Merchant.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Merchant.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\Merchant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:03:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:05:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaleCampaign.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
+              "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
+              "RelativeToolTip": "InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:02:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:54:05.842Z"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1442,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 217,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
