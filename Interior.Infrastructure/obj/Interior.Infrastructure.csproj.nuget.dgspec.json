@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {}
+    "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {
+    "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
+        "projectUniqueName": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
         "projectName": "Interior.Infrastructure",
-        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\Interior.Infrastructure\\obj\\",
+        "projectPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Interior.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
-                "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj"
+              "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
+                "projectPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj"
               }
             }
           }
@@ -75,25 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
+    "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
+        "projectUniqueName": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
         "projectName": "InteriorCoffee.Domain",
-        "projectPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
-        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\FPT_CN9\\SEP490\\FinalProject\\Code\\BECode\\InteriorCoffee_BE\\InteriorCoffee.Domain\\obj\\",
+        "projectPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\InteriorCoffee.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

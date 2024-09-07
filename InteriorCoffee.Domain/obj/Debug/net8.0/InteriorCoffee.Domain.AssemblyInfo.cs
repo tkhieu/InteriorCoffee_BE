@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InteriorCoffee.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a4ea5eaefbf43b802513b6c59439e0c05798f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf9d44ae831c5157d2a2a442f2eabb75468ba6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InteriorCoffee.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InteriorCoffee.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

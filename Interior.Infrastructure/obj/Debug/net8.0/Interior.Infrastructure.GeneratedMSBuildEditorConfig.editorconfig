@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Interior.Infrastructure
-build_property.ProjectDir = D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\
+build_property.ProjectDir = D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

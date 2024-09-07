@@ -14,3 +14,19 @@ D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infras
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\refint\Interior.Infrastructure.dll
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.pdb
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\ref\Interior.Infrastructure.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.deps.json
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\Interior.Infrastructure.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\InteriorCoffee.Domain.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\bin\Debug\net8.0\InteriorCoffee.Domain.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.csproj.AssemblyReference.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.AssemblyInfoInputs.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.AssemblyInfo.cs
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.sourcelink.json
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.92A47F47.Up2Date
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\refint\Interior.Infrastructure.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\Interior.Infrastructure.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\Interior.Infrastructure\obj\Debug\net8.0\ref\Interior.Infrastructure.dll

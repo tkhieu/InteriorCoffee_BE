@@ -16,3 +16,21 @@ D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\InteriorCoffee.
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\refint\InteriorCoffee.Application.dll
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.pdb
 D:\FPT\FPT_CN9\SEP490\FinalProject\Code\BECode\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\ref\InteriorCoffee.Application.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\InteriorCoffee.Application.deps.json
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\InteriorCoffee.Application.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\InteriorCoffee.Application.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\Interior.Infrastructure.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\InteriorCoffee.Domain.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\Interior.Infrastructure.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\bin\Debug\net8.0\InteriorCoffee.Domain.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.csproj.AssemblyReference.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.AssemblyInfoInputs.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.AssemblyInfo.cs
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.csproj.CoreCompileInputs.cache
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.sourcelink.json
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\Interior.96B07D7A.Up2Date
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\refint\InteriorCoffee.Application.dll
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\InteriorCoffee.Application.pdb
+D:\FINAL CAPSTONE\InteriorCoffee_BE\InteriorCoffee_BE\InteriorCoffee.Application\obj\Debug\net8.0\ref\InteriorCoffee.Application.dll

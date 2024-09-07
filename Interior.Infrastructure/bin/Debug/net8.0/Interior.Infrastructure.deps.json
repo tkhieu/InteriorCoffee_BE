@@ -290,10 +290,7 @@
           "MongoDB.Driver": "2.28.0"
         },
         "runtime": {
-          "InteriorCoffee.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "InteriorCoffee.Domain.dll": {}
         }
       }
     }

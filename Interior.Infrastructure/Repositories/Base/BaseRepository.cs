@@ -17,7 +17,14 @@ namespace InteriorCoffee.Infrastructure.Repositories.Base
         public BaseRepository(IOptions<MongoDBContext> setting, IMongoClient client)
         {
             _client = client;
-            _database = _client.GetDatabase(setting.Value.DatabaseName);
+            var databaseName = setting?.Value?.DatabaseName;
+            if (string.IsNullOrEmpty(databaseName))
+            {
+                throw new ArgumentException("DatabaseName cannot be null or empty", nameof(setting.Value.DatabaseName));
+            }
+            _database = _client.GetDatabase(databaseName);
         }
+
+
     }
 }
