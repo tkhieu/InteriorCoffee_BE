@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|d:\\final capstone\\interiorcoffee_be\\interiorcoffee_be\\interiorcoffeeapis\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CA4B54-D304-4B06-9A1A-50137B9A1F49}|InteriorCoffeeAPIs\\InteriorCoffeeAPIs.csproj|solutionrelative:interiorcoffeeapis\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,19 +135,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T02:58:37.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "InteriorCoffeeAPIs\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T01:57:02.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\appsettings.json",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\appsettings.json",
@@ -155,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Program.cs",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Program.cs",
@@ -167,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Base\\BaseRepository.cs",
@@ -179,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BaseService.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Base\\BaseService.cs",
@@ -191,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DependencyServices.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Extensions\\DependencyServices.cs",
@@ -203,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\ProductRepository.cs",
@@ -215,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
@@ -227,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Controllers\\ProductController.cs",
@@ -239,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IAccountRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Interfaces\\IAccountRepository.cs",
@@ -251,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "InteriorCoffeeAPIs\\Controllers\\AccountController.cs",
@@ -263,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Product.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Product.cs",
@@ -275,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Interfaces\\IAccountService.cs",
@@ -287,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\AccountRepository.cs",
@@ -299,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AccountService.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Implements\\AccountService.cs",
@@ -311,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CampaignProductsRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\CampaignProductsRepository.cs",
@@ -323,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\RoleRepository.cs",
@@ -335,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Account.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Account.cs",
@@ -347,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\ProductCategory.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\ProductCategory.cs",
@@ -359,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Implements\\ProductService.cs",
@@ -371,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CampaignProducts.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\CampaignProducts.cs",
@@ -383,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Merchant.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\Merchant.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\Merchant.cs",
@@ -395,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Application\\Services\\Interfaces\\IProductService.cs",
@@ -407,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SaleCampaign.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
               "RelativeDocumentMoniker": "InteriorCoffee.Domain\\Models\\SaleCampaign.cs",
@@ -419,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ProductCategoryRepository.cs",
               "DocumentMoniker": "D:\\FINAL CAPSTONE\\InteriorCoffee_BE\\InteriorCoffee_BE\\Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
               "RelativeDocumentMoniker": "Interior.Infrastructure\\Repositories\\Implements\\ProductCategoryRepository.cs",
@@ -428,10 +449,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T15:54:05.842Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
