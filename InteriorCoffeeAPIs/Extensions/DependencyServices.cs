@@ -35,6 +35,7 @@ namespace InteriorCoffeeAPIs.Extensions
 
             #region Service Scope
             services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<ICampaignProductsService, CampaignProductsService>();
             services.AddScoped<IChatSessionService, ChatSessionService>();
             services.AddScoped<IDesignService, DesignService>();
