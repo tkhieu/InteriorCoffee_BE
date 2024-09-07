@@ -1,6 +1,12 @@
 using InteriorCoffee.Application.Constants;
+using InteriorCoffee.Application.Services.Implements;
+using InteriorCoffee.Application.Services.Interfaces;
+using InteriorCoffee.Domain.Models;
+using InteriorCoffee.Infrastructure.Repositories.Implements;
+using InteriorCoffee.Infrastructure.Repositories.Interfaces;
 using InteriorCoffeeAPIs.Extensions;
 using InteriorCoffeeAPIs.Middlewares;
+using MongoDB.Driver;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.ClearProviders();
@@ -13,7 +19,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddControllers();
-
+builder.Services.AddDatabase(builder.Configuration);
 builder.Services.AddServices(builder.Configuration);
 builder.Services.AddJwtValidation(builder.Configuration);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
@@ -21,23 +27,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddConfigSwagger();
 
-
 var app = builder.Build();
-
-#region OldCode
-// Configure the HTTP request pipeline.
-//if (app.Environment.IsDevelopment())
-//{
-//	app.UseSwagger();
-//	app.UseSwaggerUI();
-//}
-
-//app.UseHttpsRedirection();
-
-//app.UseAuthorization();
-
-//app.MapControllers();
-#endregion
 
 app.UseSwagger();
 app.UseSwaggerUI();

@@ -15,9 +15,47 @@ namespace InteriorCoffeeAPIs.Extensions
 {
     public static class DependencyServices
     {
+        /*        public static IServiceCollection AddDatabase(this IServiceCollection services, IConfiguration config)
+                {
+                    services.Configure<MongoDBContext>(config.GetSection("MongoDbSection"));
+                    return services;
+                }
+
+                public static IServiceCollection AddServices(this IServiceCollection services, IConfiguration config)
+                {
+                    #region Other
+                    services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
+                    services.AddScoped<IMongoClient>(sp =>
+                    {
+                        var getContext = sp.GetRequiredService<IOptions<MongoDBContext>>();
+                        IMongoClient client = new MongoClient(getContext.Value.ConnectionURI);
+                        return client;
+                    });
+                    #endregion*/
+
         public static IServiceCollection AddDatabase(this IServiceCollection services, IConfiguration config)
         {
-            services.Configure<MongoDBContext>(config.GetSection("MongoDbSection"));
+            services.AddSingleton<IMongoClient, MongoClient>(sp =>
+            {
+                var connectionString = config.GetSection("MongoDbSection:ConnectionURI").Value;
+                if (string.IsNullOrEmpty(connectionString))
+                {
+                    throw new ArgumentNullException(nameof(connectionString), "MongoDB connection string cannot be null or empty.");
+                }
+                return new MongoClient(connectionString);
+            });
+
+            services.AddScoped(sp =>
+            {
+                var client = sp.GetRequiredService<IMongoClient>();
+                var databaseName = config.GetSection("MongoDbSection:DatabaseName").Value;
+                if (string.IsNullOrEmpty(databaseName))
+                {
+                    throw new ArgumentNullException(nameof(databaseName), "MongoDB database name cannot be null or empty.");
+                }
+                return client.GetDatabase(databaseName);
+            });
+
             return services;
         }
 
@@ -25,16 +63,11 @@ namespace InteriorCoffeeAPIs.Extensions
         {
             #region Other
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddScoped<IMongoClient>(sp =>
-            {
-                var getContext = sp.GetRequiredService<IOptions<MongoDBContext>>();
-                IMongoClient client = new MongoClient(getContext.Value.ConnectionURI);
-                return client;
-            });
             #endregion
 
             #region Service Scope
             services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<ICampaignProductsService, CampaignProductsService>();
             services.AddScoped<IChatSessionService, ChatSessionService>();
             services.AddScoped<IDesignService, DesignService>();
