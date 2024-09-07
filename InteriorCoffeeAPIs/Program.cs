@@ -1,6 +1,12 @@
 using InteriorCoffee.Application.Constants;
+using InteriorCoffee.Application.Services.Implements;
+using InteriorCoffee.Application.Services.Interfaces;
+using InteriorCoffee.Domain.Models;
+using InteriorCoffee.Infrastructure.Repositories.Implements;
+using InteriorCoffee.Infrastructure.Repositories.Interfaces;
 using InteriorCoffeeAPIs.Extensions;
 using InteriorCoffeeAPIs.Middlewares;
+using MongoDB.Driver;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.ClearProviders();
@@ -20,7 +26,6 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddConfigSwagger();
-
 
 var app = builder.Build();
 
